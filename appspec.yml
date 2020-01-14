@@ -1,0 +1,5 @@
+version: 0.0
+os: linux
+files:
+  - source: ./aws-build-sample-maven-project-0.0.1-SNAPSHOT.jar
+    destination: /tmp
